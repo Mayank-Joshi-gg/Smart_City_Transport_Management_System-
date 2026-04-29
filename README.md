@@ -36,7 +36,7 @@ Overpass API 🏥
 Geopy 📍
 ⚙️ Installation & Setup
 1. Clone Repository
-git clone https://github.com/your-username/smart-transport-system.git
+git clone https://github.com/Mayank-Joshi-gg/smart-transport-system.git
 cd smart-transport-system
 2. Install Dependencies
 pip install streamlit folium streamlit-folium geopy requests polyline
